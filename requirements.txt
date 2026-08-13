@@ -1,0 +1,8 @@
+# Image denoising
+SimpleITK  # loads DICOM files
+trimesh  # converts masks to 3D meshes
+scikit-image # image processing
+scipy
+numpy
+matplotlib
+Pillow
